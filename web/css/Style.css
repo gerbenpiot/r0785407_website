@@ -1,4 +1,4 @@
-@CHARSET "UTF-8";
+@charset "UTF-8";
 main table, main td, main th {
     border: 1px solid #000;
     border-collapse: collapse; /* all borders are melted together: you don't see difference between several borders */
