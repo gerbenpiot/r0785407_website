@@ -7,7 +7,7 @@ main table, main td, main th {
 main table {
     table-layout: fixed;
     box-sizing: border-box;
-    margin-left: 16px;
+
     background-color: #FFFFFF;
 }
 main a:visited, footer a:visited {
@@ -166,7 +166,7 @@ nav ul{
         width: calc(100%/3);
     }
     main table{
-        margin-left: 300px;
+        margin-left: 150px;
     }
     footer{
         padding-top: 20px;
@@ -174,6 +174,9 @@ nav ul{
     }
 
 }
+
+
+
 html body {
     color: #FFDF36;
     font-family: "Baskerville Old Face";
