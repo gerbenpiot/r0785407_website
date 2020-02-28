@@ -19,8 +19,8 @@
 
     <nav>
         <ul>
-            <li><a href="index.html">home</a></li>
-            <li><a href="verzameling.jsp">verzameling</a></li>
+            <li><a href="index.jsp">home</a></li>
+            <li><a href="Verzameling">verzameling</a></li>
             <li><a href="formulier.jsp">formulier</a></li>
         </ul>
     </nav>
